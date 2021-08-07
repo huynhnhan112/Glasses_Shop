@@ -118,6 +118,10 @@ export default class Glasses extends Component {
                             <div className="img" style={{position:'absolute', top:'110px', right:'185px', opacity:'0.5'}}>
                                 <img src={this.state.imgSrc} alt="..." width={200} />   
                             </div>
+                            <div className="content text-left" style={{backgroundColor:'rgba(252,179,126,0.6)', position:'absolute', top:'300px',left:'110px'}}>
+                                <h3 style={{color:'#9672C6'}}>FENDI F8750</h3>
+                                <p>Light pink square lenses define these <br /> sunglasses, ending with another of pearl effect <br /> tip. </p>
+                            </div>
                         </div>
                     </div>
                 </div>
